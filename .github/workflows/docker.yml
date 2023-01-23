@@ -36,6 +36,6 @@ jobs:
         target: final
         push: true
         tags: |
-          $REGISTRY/$OWNER/$IMAGE_NAME:$(date +%s)
+          $REGISTRY/$OWNER/$IMAGE_NAME:$1.0.$GITHUB_RUN_NUMBER
         build-args: |
           ENVIRONMENT=production
