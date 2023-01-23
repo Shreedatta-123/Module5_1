@@ -4,8 +4,8 @@
   "description": "Local exercise action to verify the desire commit was removed",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "ncc build main.js"
+    "test": "node index.js",
+    "build": "ncc build index.js"
   },
   "repository": {
     "type": "git",
