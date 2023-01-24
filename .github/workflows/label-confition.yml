@@ -1,0 +1,12 @@
+name: Job conditional
+
+on:
+  pull_request:
+    types: [labeled]
+
+jobs:
+  build:
+   if: contains(github.event.pull_request.labels.*.name, 'stage')
+    runs-on: ubuntu-latest
+    steps:
+     - run: echo "hello"
