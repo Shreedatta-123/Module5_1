@@ -12,7 +12,7 @@ This exercise checks your ability to publish to a GitHub Packages registry. It i
 
 ## Instructions
 
-<!-- Specific instructions for your exercise -->
+<!-- Specific instructions for your test exercise -->
 
 Please complete the instructions below:
 
