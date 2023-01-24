@@ -55,4 +55,4 @@ Resources specific to this exercise:
 Resources for working with exercises and GitHub Actions in general:
 
 - [Creating a repository from a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
-[![Job conditional](https://github.com/Shreedatta-123/Module5_1/actions/workflows/label-confition.yml/badge.svg?branch=test_PRlabel&event=pull_request)](https://github.com/Shreedatta-123/Module5_1/actions/workflows/label-confition.yml)
+- [![Job conditional](https://github.com/Shreedatta-123/Module5_1/actions/workflows/label-confition.yml/badge.svg?branch=test_PRlabel&event=pull_request)](https://github.com/Shreedatta-123/Module5_1/actions/workflows/label-confition.yml)
